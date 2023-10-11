@@ -1,0 +1,19 @@
+.first-class {
+    color: aqua;
+    border: 1px solid red;
+}
+
+#secondId {
+    color: brown
+    /* text-decoration: underline;
+    text-transform: uppercase; */
+}
+
+h2 {
+    color: green;
+}
+
+.image {
+    height: 400px;
+    width: 400px;
+}
